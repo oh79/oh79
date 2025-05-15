@@ -4,28 +4,6 @@
 
 ---
 
-## 🧗 Challenges I Took On
-
-### 1. 알고리즘 대회 참가
-
-| 연도 | 활동명 | 내용 | 사용 기술 / 도구 | 링크 |
-| ---- | ------------- | --------------------------- | ------------ | ------------------------- |
-| 2024 | ex) 단국대 알고리즘 콘테스트 | 어느 문제를 풀었고 어느 경험을 했는지 적어 | 사용 언어, 플랫폼 등 |[링크](https://example.com) |
-
-### 2. 공모전
-
-| 연도 | 활동명 | 내용 | 사용 기술 / 도구 | 링크 |
-| ---- | ------------- | --------------------------- | ------------ | ------------------------- |
-| 2024 | ex) GPT 활용 창업 공모전 | 아이디어, 역할, 경험한 내용 등 | GPT, Notion, Canva 등 | [링크](https://example.com) |
-
-### 3. 취업 및 창업 활동
-
-| 연도 | 활동명 | 내용 | 사용 기술 / 도구 | 링크 |
-| ---- | ------------- | --------------------------- | ------------ | ------------------------- |
-| 2025 | ex) 소프트웨어 마에스트로 | 무엇을 거쳤고 어느 경험을 했는지 | 사용 언어나 학습 도구 등 | [링크](https://example.com) |
-
----
-
 ## 🚀 My Tech Stack
 
 ### 🤝 Collaboration
@@ -48,3 +26,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+---
+<h2>📁 Portfolio</h2>
+
+<p>
+  <a href="https://mint-octopus-89c.notion.site/Oh-Seung-min-s-Portfolio-1eff5133cfbf801b1ba71fe5b5d13b968?pvs=4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="Notion Portfolio" width="250"/><br/>
+    <strong>👉 Click to view my Notion Portfolio</strong>
+  </a>
+</p>
