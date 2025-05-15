@@ -31,7 +31,7 @@
 <h2>📁 Portfolio</h2>
 
 <p>
-  <a href="https://mint-octopus-89c.notion.site/Oh-Seung-min-s-Portfolio-1eff5133cfbf801b1ba71fe5b5d13b968?pvs=4" target="_blank">
+  <a href="https://mint-octopus-89c.notion.site/Oh-Seung-min-s-Portfolio-1eff5133cfbf80b1ba71fe5b5d13b968?pvs=4" target="_blank">
     <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="Notion Portfolio" width="250"/><br/>
     <strong>👉 Click to view my Notion Portfolio</strong>
   </a>
