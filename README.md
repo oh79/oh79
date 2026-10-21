@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://oseungmin.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="oh's Portfolio" width="250"/><br/>
+    # <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="oh's Portfolio" width="250"/><br/>
     <strong>👉 Click to view my Portfolio</strong>
   </a>
 </p>
