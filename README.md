@@ -1,6 +1,6 @@
 ## 👋 About Me
-**사용자 문제를 중시하는 예비 창업가**로서,  
-사람들이 겪는 문제를 기술로 해결하고, 실제로 사용되는 서비스를 만드는 데 집중하고 있습니다.
+**1인 사업가의 판매 문제를 해결하고 있습니다.**,  
+AI Agent CMO로 잘 만든 서비스를 잘 팔기까지, https://aide.io.kr
 
 ---
 
@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://oseungmin.com/" target="_blank">
-    # <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="oh's Portfolio" width="250"/><br/>
+    <!-- <img src="https://github.com/user-attachments/assets/fb8f051e-c59a-4ae1-87c7-b951196bed1b" alt="oh's Portfolio" width="250"/><br/> -->
     <strong>👉 Click to view my Portfolio</strong>
   </a>
 </p>
