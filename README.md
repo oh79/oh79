@@ -1,6 +1,13 @@
 ## 👋 About Me
 **1인 사업가의 판매 문제를 해결하고 있습니다.**,  
-AI Agent CMO로 잘 만든 서비스를 잘 팔기까지, https://aide.io.kr
+AI Agent CMO로 잘 만든 서비스를 잘 팔기까지.
+
+<p>
+  <a href="https://aide.io.kr">
+    <img src="./assets/aide-mascot.svg" alt="aide 마스코트" width="88" height="88" /><br />
+    <strong>https://aide.io.kr</strong>
+  </a>
+</p>
 
 ---
 
